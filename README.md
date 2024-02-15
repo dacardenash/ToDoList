@@ -2,7 +2,7 @@
 Prueba técnica lista de tareas en angular y .NET Core utilizando C#
 
 ## Primeros pasos
-Primero clone el repositorio en una carpeta o ubicación de su preferencia.
+Clone el repositorio en una carpeta o ubicación de su preferencia.
 
 ### Instalación y ejecución del API
 Después de clonado el repositorio:
