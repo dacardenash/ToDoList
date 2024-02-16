@@ -9,7 +9,7 @@ Después de clonado el repositorio:
 
 1. Abrir la carpeta **api**.
 2. Abrir la solución llamada ToDoListAPI.
-3. Ejecutar el proyecto, para aplicar las migraciones y cree una BD local.
+3. Ejecutar el proyecto, para que aplique las migraciones y cree una BD local.
 4. Verificar que la api se ejecuta en el **https://localhost:7062**
 
 ### Instalación y ejecución Front
