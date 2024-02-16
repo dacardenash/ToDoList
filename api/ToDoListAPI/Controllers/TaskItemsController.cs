@@ -10,6 +10,9 @@ using ToDoListAPI.Model;
 
 namespace ToDoListAPI.Controllers
 {
+	/// <summary>
+    /// Controlador que permite gestionar las tareas
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class TaskItemsController : ControllerBase
